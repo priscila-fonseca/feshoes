@@ -46,6 +46,9 @@
     "color": {
       "model": "color",
       "via": "shoes"
+    },
+    "price": {
+      "type": "decimal"
     }
   }
 }
